@@ -1,0 +1,16 @@
+body{
+
+ }
+span.spacing{
+    margin-right: 10px;
+}
+input.custom-width{
+    width: 200px;
+}
+input.spacing{
+    margin-right: 5px;
+}
+card {
+    background-color: #efefef;
+    box-shadow: 2px 2px;
+}
